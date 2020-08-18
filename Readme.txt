@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+ok for downloading this theme!
 
 Theme Name: eStartup
 Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
